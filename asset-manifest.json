@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/spr-sbd/static/css/main.338518ea.css",
+    "main.js": "/spr-sbd/static/js/main.c751ebc7.js",
+    "index.html": "/spr-sbd/index.html",
+    "main.338518ea.css.map": "/spr-sbd/static/css/main.338518ea.css.map",
+    "main.c751ebc7.js.map": "/spr-sbd/static/js/main.c751ebc7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.338518ea.css",
+    "static/js/main.c751ebc7.js"
+  ]
+}
